@@ -1,0 +1,66 @@
+{
+  "knowledge_base": "Contract_Management",
+  "document_count": 8,
+  "chunk_count": 81,
+  "word_count": 3882,
+  "searchable_document_count": 8,
+  "documents": [
+    {
+      "path": "knowledge_base/Contract_Management/Contract Audit Checklist.md",
+      "title": "Contract Audit Checklist",
+      "word_count": 453,
+      "chunk_count": 10,
+      "searchable": true
+    },
+    {
+      "path": "knowledge_base/Contract_Management/Contract Change Management Procedure.md",
+      "title": "Contract Change Management Procedure",
+      "word_count": 546,
+      "chunk_count": 10,
+      "searchable": true
+    },
+    {
+      "path": "knowledge_base/Contract_Management/Contract Clause Playbook.md",
+      "title": "Contract Clause Playbook",
+      "word_count": 495,
+      "chunk_count": 11,
+      "searchable": true
+    },
+    {
+      "path": "knowledge_base/Contract_Management/Contract Governance Framework.md",
+      "title": "Contract Governance Framework",
+      "word_count": 456,
+      "chunk_count": 10,
+      "searchable": true
+    },
+    {
+      "path": "knowledge_base/Contract_Management/Contract KPI Framework.md",
+      "title": "Contract KPI Framework",
+      "word_count": 424,
+      "chunk_count": 10,
+      "searchable": true
+    },
+    {
+      "path": "knowledge_base/Contract_Management/Contract Management Procedure.md",
+      "title": "Contract Management Procedure",
+      "word_count": 620,
+      "chunk_count": 10,
+      "searchable": true
+    },
+    {
+      "path": "knowledge_base/Contract_Management/Contract Register and Obligation Tracker.md",
+      "title": "Contract Register and Obligation Tracker",
+      "word_count": 364,
+      "chunk_count": 10,
+      "searchable": true
+    },
+    {
+      "path": "knowledge_base/Contract_Management/Contract Risk Matrix.md",
+      "title": "Contract Risk Matrix",
+      "word_count": 524,
+      "chunk_count": 10,
+      "searchable": true
+    }
+  ],
+  "vocabulary_size": 804
+}
